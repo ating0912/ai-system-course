@@ -1,0 +1,14 @@
+{
+  "dataset": "week01_customer_churn_sample.csv",
+  "dataset_version": "v1.0",
+  "model": "LogisticRegression",
+  "test_size": 0.2,
+  "random_state": 42,
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "mlflow_run_id": "42035df127934edeaca5389414c0d859"
+}
